@@ -2,12 +2,12 @@ DJ Mama
 =======
 Change your keyboard into a DJ mixer.
 
-# Requirements
+## Requirements
 1. Python 2.7
 2. pygame
 3. vlc
 
-# Setup
+## Setup
 1. Install pygame
 ```
 $ apt-get install python-pygame
